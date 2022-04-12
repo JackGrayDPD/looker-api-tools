@@ -1,0 +1,1 @@
+console.log("Please see the README for instructions on using this utility.");

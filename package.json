@@ -7,7 +7,8 @@
     "listGroups": "node scripts/listGroups",
     "listUserAttributes": "node scripts/listUserAttributes",
     "addGroupToGroup": "node scripts/addGroupToGroup",
-    "updateUserAttributeGroupValue": "node scripts/updateUserAttributeGroupValue"
+    "updateUserAttributeGroupValue": "node scripts/updateUserAttributeGroupValue",
+    "createMultipleUsers": "node scripts/createMultipleUsers"
   },
   "author": "",
   "license": "ISC",

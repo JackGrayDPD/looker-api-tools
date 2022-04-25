@@ -1,6 +1,9 @@
 # looker-api-tools
 
 ## scripts
+### generate
+Creates template files for a new script. Run `npm run generate SCRIPT_NAME SDK_METHOD`.
+
 ### listGroups
 Lists all groups. Run `npm run listGroups`. Fields shown: name, id.
 

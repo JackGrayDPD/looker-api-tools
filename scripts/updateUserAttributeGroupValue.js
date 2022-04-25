@@ -1,5 +1,5 @@
 const yargs = require('yargs');
-const { updateUserAttributeGroupValue } = require('./updateUserAttributeGroupValue/index');
+const { updateUserAttributeGroupValue } = require('../functions/updateUserAttributeGroupValue');
 
 const args = yargs(process.argv.slice(2))
 	.options({

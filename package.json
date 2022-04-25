@@ -1,10 +1,13 @@
 {
-  "name": "looker-create-multiple-users",
+  "name": "looker-api-tools",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "listGroups": "node scripts/listGroups",
+    "listUserAttributes": "node scripts/listUserAttributes",
+    "addGroupToGroup": "node scripts/addGroupToGroup",
+    "updateUserAttributeGroupValue": "node scripts/updateUserAttributeGroupValue"
   },
   "author": "",
   "license": "ISC",

@@ -1,4 +1,4 @@
-const { sdk } = require('../looker/sdk');
+const { sdk } = require('../../looker/sdk');
 
 function createUser(user) {
 	return new Promise((resolve, reject) => {

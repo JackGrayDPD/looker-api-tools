@@ -4,11 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "listGroups": "node scripts/listGroups",
-    "listUserAttributes": "node scripts/listUserAttributes",
-    "addGroupToGroup": "node scripts/addGroupToGroup",
-    "updateUserAttributeGroupValue": "node scripts/updateUserAttributeGroupValue",
-    "createMultipleUsers": "node scripts/createMultipleUsers"
+    "listGroups": "node src/scripts/listGroups",
+    "listUserAttributes": "node src/scripts/listUserAttributes",
+    "addGroupToGroup": "node src/scripts/addGroupToGroup",
+    "updateUserAttributeGroupValue": "node src/scripts/updateUserAttributeGroupValue",
+    "createMultipleUsers": "node src/scripts/createMultipleUsers"
   },
   "author": "",
   "license": "ISC",

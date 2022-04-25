@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "generate": "node scripts/generation/index.js",
     "listGroups": "node src/scripts/listGroups",
     "listUserAttributes": "node src/scripts/listUserAttributes",
     "addGroupToGroup": "node src/scripts/addGroupToGroup",
